@@ -11,3 +11,9 @@ h1{
 a{
     font-style: italic;
 }
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:500;
+}
