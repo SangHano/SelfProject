@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-decoration: solid;
+    text-align: center;
+    font-weight: bold;
+    color: blueviolet;
+}
+a{
+    font-style: italic;
+}
+h4{
+    font-size: larger;
+    font-weight: bold;
+    text-decoration: underline;
+}
+img{
+    display: block;
+    margin: auto;
+    margin-right: auto;
+    width:50%;
+}
